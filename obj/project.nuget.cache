@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Hv91ftN0WU4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bhuwa\\Desktop\\TaskReminderApp\\TaskReminderApp\\TaskReminderApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bhuwa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
